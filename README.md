@@ -2,12 +2,15 @@
 
 ### Sample Images
 Milled fractal antenna on FR4 PCB
+
 ![Image](https://i.imgur.com/nfTcyqe.png)
 
 Electric field pattern on 2.4GHz
+
 ![Image](https://i.imgur.com/zpHf9oI.png)
 
 Testing modifications to standard layout
+
 ![Image](https://i.imgur.com/D1r3Yq3.png)
 
 ### Report
